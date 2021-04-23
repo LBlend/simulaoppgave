@@ -1,7 +1,7 @@
 import './App.css';
 
-import Header from './components/header';
-import Card from './components/card';
+import Header from './components/Header';
+import Card from './components/Card';
 
 import jsonData from './data/data.json';
 
