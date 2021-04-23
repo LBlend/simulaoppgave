@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simulaoppgave/static/css/main.f5bcbf7f.chunk.css",
+    "main.css": "/simulaoppgave/static/css/main.bcd17030.chunk.css",
     "main.js": "/simulaoppgave/static/js/main.5214895f.chunk.js",
     "main.js.map": "/simulaoppgave/static/js/main.5214895f.chunk.js.map",
     "runtime-main.js": "/simulaoppgave/static/js/runtime-main.5d03fb8c.js",
@@ -10,14 +10,14 @@
     "static/js/3.6b59caaa.chunk.js": "/simulaoppgave/static/js/3.6b59caaa.chunk.js",
     "static/js/3.6b59caaa.chunk.js.map": "/simulaoppgave/static/js/3.6b59caaa.chunk.js.map",
     "index.html": "/simulaoppgave/index.html",
-    "static/css/main.f5bcbf7f.chunk.css.map": "/simulaoppgave/static/css/main.f5bcbf7f.chunk.css.map",
+    "static/css/main.bcd17030.chunk.css.map": "/simulaoppgave/static/css/main.bcd17030.chunk.css.map",
     "static/js/2.d6c1bc66.chunk.js.LICENSE.txt": "/simulaoppgave/static/js/2.d6c1bc66.chunk.js.LICENSE.txt",
     "static/media/logo.ad12bcc4.png": "/simulaoppgave/static/media/logo.ad12bcc4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5d03fb8c.js",
     "static/js/2.d6c1bc66.chunk.js",
-    "static/css/main.f5bcbf7f.chunk.css",
+    "static/css/main.bcd17030.chunk.css",
     "static/js/main.5214895f.chunk.js"
   ]
 }
