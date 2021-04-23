@@ -49,7 +49,7 @@ main {
 
 .card {
   background-color: white;
-  
+
   padding-right: 1rem;
   width: clamp(0, 60ch, 75ch);
 
@@ -61,7 +61,7 @@ main {
 }
 
 .card > * {
-  margin: 1rem;
+  margin: 0 1rem;
 }
 
 .card-title {
