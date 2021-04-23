@@ -110,13 +110,16 @@ main {
 @media only screen and (max-width: 800px) {
   main {
     margin: 2rem;
-    padding: 1rem;
+    padding: 5rem;
   }
 }
 
 @media only screen and (max-width: 600px) {
   main {
     margin: 2rem 0.5rem;
-    padding: 0.5rem;
+    padding: 1rem;
+  }
+  .card > * {
+    margin: 0 0.5rem;
   }
 }
