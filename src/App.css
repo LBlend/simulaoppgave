@@ -60,6 +60,7 @@ main {
   box-shadow: 4px 6px 4px HSLA(0, 0%, 50%, 0.15);
 }
 
+/* gap kan ikke brukes pga dårlig browser support */
 .card > * {
   margin: 0 1rem;
 }
@@ -70,11 +71,11 @@ main {
   font-size: 1.5rem;
 
   /* 
-  Kunne gått for en løsning hvor sirkelens størrelse justerte etter teksten
-  Problemet med denne løsningen derimot er at fonten ikke er monospace, hvilket betyr at
-  sirklene med 1-tall i seg blir smalere pga ulike størrelse på bokstaver.
+  Kunne gått for en løsning hvor sirkelens størrelse seg justerte etter tekstens lengde.
+  Problemet med denne løsningen derimot er at fonten ikke er monospace, hvilket betyr at for eksempel
+  sirklene med 1-tall i seg blir smalere pga ulike bredde på tegnene.
 
-  Derfor antar jeg at sirklene ikke vil inneholde mer enn 2 bokstaer og at fontstørrelsen ikke vil endres
+  Derfor antar jeg at sirklene ikke vil inneholde mer enn 2 bokstaver.
   Dette er ikke optimalt, og vil kreve mer jobb om noe evt. skal endres.
   */
   width: clamp(3em, 3em, 3em);
